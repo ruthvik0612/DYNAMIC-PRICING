@@ -67,6 +67,3 @@ The objective of this project is to **analyze historical pricing and sales data*
 - Scikit-learn
 - Jupyter Notebook
 
----
-
-## 📁 Project Structure
